@@ -33,9 +33,9 @@ Execute the program using runserver command.
 <body><center>
     <img src="logo.png"  height="100" >
     
-    <h3>SLOT TIME TABLE-MADHANRAJ P(23013616)</h3>
-    <table  align="center" bgcolor="cyan"border="6"cellspacing="3" cellpadding="7" width="540">
-        <tr  bgcolor="yellow">
+    <h3>SLOT TIME TABLE-MADHANRAJ(23013616)</h3>
+    <table  align="center" bgcolor="orange"border="6"cellspacing="3" cellpadding="7" width="540">
+        <tr  bgcolor="green">
             <th >Day/Time</th>
             <th>Monday</th>
             <th>Tuesday</th>
@@ -43,26 +43,26 @@ Execute the program using runserver command.
             <th>Thursday</th>
             <th>Friday</th>
          </tr>  
-         <tr  bgcolor="cyan">
-            <th  bgcolor="yellow">8-10</th>
+         <tr  bgcolor="orange">
+            <th  bgcolor="green">8-10</th>
             <td colspan="3"  align="center" >FREE SLOT</td>
             <td>PHY</td>
             <td>CHE</td>
          </tr> 
-         <tr  bgcolor="cyan">
-            <th  bgcolor="yellow">10-12</th>
+         <tr  bgcolor="orange">
+            <th  bgcolor="green">10-12</th>
             <td>GER</td>
             <td>FREE SLOT</td>
             <td>FWAD</td>
             <td>FWAD</td>
             <td>PHY</td>
          </tr> 
-         <tr  bgcolor="cyan">
-            <th  bgcolor="yellow">12-1</th>
+         <tr  bgcolor="orange">
+            <th  bgcolor="green">12-1</th>
             <td colspan="5" align="center">L U N C H</td>
          </tr> 
-         <tr  bgcolor="cyan">
-            <th  bgcolor="yellow">1-3</th>
+         <tr  bgcolor="orange">
+            <th  bgcolor="green">1-3</th>
             <td colspan="2" align="center">FREE SLOT</td>
             <td>MAT</td>
             <td>MAT</td>
@@ -116,6 +116,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (12).png>)
+![Screenshot 2024-03-20 094855](https://github.com/madhanraj67/slot/assets/150319515/47f9ef09-1c92-4b17-a26f-daeb5d4f3a25)
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
